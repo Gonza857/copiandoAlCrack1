@@ -7,6 +7,7 @@ import ar.edu.unlam.Reaccion;
 public class MainPowerRagers {
 
 	public static void main(String[] args) {
+		String hola =  "Gonza es crack";
 		Scanner scanner = new Scanner(System.in);
 		int opcion;
 		int nivel;
